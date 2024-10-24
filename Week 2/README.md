@@ -5,4 +5,4 @@ This folder contains the deliverables for Week 2 of the Data Glacier Internship 
 ### Deliverables:
 1. EDA Notebook (`.ipynb`)
 2. Data Intake Report (`.pdf`)
-3. Presentation (`.pdf`)
+
